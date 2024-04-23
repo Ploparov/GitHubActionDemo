@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "cicd1-785f8",
+    "CICD1": "cicd1-785f8"
+  },
+  "targets": {},
+  "etags": {}
+}
